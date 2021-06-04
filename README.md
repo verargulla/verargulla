@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @verargulla
+- 👀 I’m interested in Data Engineering on Azure
+- 🌱 I’m currently learning Azure Databricks and Apache Spark
+- 💞️ I’m looking to collaborate on something that I've yet to figure out.
+- 📫 You can reach me by email on my-username-at-outlook-dot-com-dot-au
